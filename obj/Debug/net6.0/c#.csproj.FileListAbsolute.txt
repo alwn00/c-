@@ -1,0 +1,15 @@
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/home/kmj001001/oop/c#/bin/Debug/net6.0/c#
+/home/kmj001001/oop/c#/bin/Debug/net6.0/c#.deps.json
+/home/kmj001001/oop/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/home/kmj001001/oop/c#/bin/Debug/net6.0/c#.dll
+/home/kmj001001/oop/c#/bin/Debug/net6.0/c#.pdb
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.dll
+/home/kmj001001/oop/c#/obj/Debug/net6.0/refint/c#.dll
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.pdb
+/home/kmj001001/oop/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
+/home/kmj001001/oop/c#/obj/Debug/net6.0/ref/c#.dll
